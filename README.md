@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rougina Medhat Noeman</h1>
-<h3 align="center">dot Net Developer</h3>
+<h3 align="center">Full stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz_h4Sz6rPhDM10Yii0oE_N_R3oH6EhmKR_vMg83tMe3Z3FbWWzXez6lnjRC5ItR6sF8U&usqp=CAU">
 
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rouginanoeman77" alt="rouginanoeman77" /></a> </p>
 
-- 🌱 I’m currently learning **Angular.js**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Node.js , dot Net framework**
+- 💬 Ask me about **Node.js , vue.js**
 
 - 📫 How to reach me **Rougina.noeman@gmail.com**
 
